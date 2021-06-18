@@ -1,2 +1,3 @@
 # go-basics
-First steps at learing Golang
+First steps at learning Golang
+This repo covers all the basics of Golang
